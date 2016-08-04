@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me robinthanh89@gmail.com
+//website http://vesotuchonbinhduong.blogspot.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thuthiemcity.info/' target='_blank'><img src='http://thuthiemcity.info/wp-content/uploads/2016/07/M%E1%BA%B6T-B%E1%BA%B0NG-T%E1%BB%94NG-TH%E1%BB%82-702x336.jpg' width='500px'/><br/>Hà Đô Centrosa</a>. Hotline 093 206 33 18. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://vesotuchonbinhduong.blogspot.com/' target='_blank'><img src='https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13882317_1122309341169542_7523749846204216525_n.jpg?oh=e606b4c357ad96f35954c8acb7c246ef&oe=58229731' width='500px'/><br/>Vé Số Tự Chọn</a>. Hotline 090 269 0933. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
