@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://vesotuchonbinhduong.blogspot.com/' target='_blank'><img src='https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13882317_1122309341169542_7523749846204216525_n.jpg?oh=e606b4c357ad96f35954c8acb7c246ef&oe=58229731' width='500px'/><br/>Vé Số Tự Chọn</a>. Hotline 090 269 0933. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://vesotuchonbinhduong.blogspot.com/' target='_blank'><img src='https://lh3.googleusercontent.com/o0OZ9WDGqhBULjaVaclNpHw9vpeBFtMoVpHbmJbHK17rXccODLYva72D84v90Q_Am4gWe_EvB4aZszGMYo4gQrwi-Z2xL6jDeoBHt26wh4x-Ii8XAcKvs9S7TfZTeNDM_qyDgm_j9IKKS8Nj1snV29khLYt-i-s_gmdpmwpN68hzeWasVrIVowsmAcx8VRVkAQ0g5tlfUFEExMkcPuR-VB3YvWIqCmtdpKRdGYvjiK0UWHgGDDR_rAUWTExlj3jpMY_tfOyXz8t9U_iUtVXTs6c5PaoSvVr2S24c-Gl0zcRuzMVqh6oJG2OycoZJnQiIbQLu6gDNmOBuyPwNUctA8ZGjVXnlSV7qCsluNjAAaRtEJUtnRRkW9nFIcIZ21xzYN8adMsrYKr12vdPkvIxY1jvIh7_mtg9XseZl5zq8HkYnUWRge549fM5l5bn323rjBvGkQSvztpwZCHz49Lv3mkeUsLnst-Q61QqdVmSBWWjGU9ZyGi6xxPIdaiYUJgJwiCJw6F_CtIpvzmSQtIdLrjZ_tBT00Vz4c9iogVGFUA3Z2f2870JlFbcZqgPKVARbzHqd-DP_hrVN79CAyzcTTbILRV_ZEg=w808-h479-no' width='500px'/><br/>Vé Số Tự Chọn</a>. Hotline 090 269 0933. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
