@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://thuthiemcity.info';
+	var url_popup = 'http://vesotuchonhcm.blogspot.com';
 
       //<![CDATA[
-	  // var url_ppp = 'http://www.canhocenta-park.com';
+	  // var url_ppp = 'http://vesotuchonhcm.blogspot.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
